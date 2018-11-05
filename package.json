@@ -1,0 +1,12 @@
+{
+  "name": "supercomputer",
+  "version": "0.1.0",
+  "description": "Yo, tell me what to install",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/supercomputer.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT",
+  "bin": {
+    "supercomputer": "cli.js"
+  }
+}
